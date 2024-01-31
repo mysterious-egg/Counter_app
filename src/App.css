@@ -1,0 +1,30 @@
+.all{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.redZero{
+  color: cyan;
+  font-size: 70px;
+  margin-bottom: 10px;
+}
+
+button{
+  background-color: transparent;
+  margin-left: 10px;
+  border: transparent;
+  background-color: red;
+  margin: 10px;
+  width: 70px;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+
+
+h1{
+  color: black;
+}
